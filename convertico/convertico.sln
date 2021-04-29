@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "convertico", "convertico\convertico.vbproj", "{4063747C-673C-45E3-87E0-8910D67B0C3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4063747C-673C-45E3-87E0-8910D67B0C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4063747C-673C-45E3-87E0-8910D67B0C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4063747C-673C-45E3-87E0-8910D67B0C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4063747C-673C-45E3-87E0-8910D67B0C3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F562F5E-4CA6-433C-B3A4-6F5E27B899FB}
+	EndGlobalSection
+EndGlobal

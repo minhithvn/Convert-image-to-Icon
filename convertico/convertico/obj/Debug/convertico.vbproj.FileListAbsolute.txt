@@ -1,0 +1,10 @@
+D:\VB2005\test\convertico\convertico\convertico\bin\Debug\convertico.exe
+D:\VB2005\test\convertico\convertico\convertico\bin\Debug\convertico.pdb
+D:\VB2005\test\convertico\convertico\convertico\bin\Debug\convertico.xml
+D:\VB2005\test\convertico\convertico\convertico\obj\Debug\convertico.Form1.resources
+D:\VB2005\test\convertico\convertico\convertico\obj\Debug\convertico.Resources.resources
+D:\VB2005\test\convertico\convertico\convertico\obj\Debug\convertico.vbproj.GenerateResource.cache
+D:\VB2005\test\convertico\convertico\convertico\obj\Debug\convertico.vbproj.CoreCompileInputs.cache
+D:\VB2005\test\convertico\convertico\convertico\obj\Debug\convertico.exe
+D:\VB2005\test\convertico\convertico\convertico\obj\Debug\convertico.xml
+D:\VB2005\test\convertico\convertico\convertico\obj\Debug\convertico.pdb
